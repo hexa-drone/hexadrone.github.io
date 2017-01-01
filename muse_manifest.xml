@@ -1,0 +1,161 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1483278192199">
+  <folder name="css">
+    <file name="site_global.css" crc="4190435749"/>
+    <file name="portofolio.css" crc="520113078" ref="portofolio"/>
+    <file name="iefonts_portofolio.css" crc="4009297156" ref="portofolio"/>
+    <file name="contact.css" crc="3972677234" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4143390978" ref="contact"/>
+    <file name="service.css" crc="469900797" ref="service"/>
+    <file name="iefonts_service.css" crc="4176649885" ref="service"/>
+    <file name="about.css" crc="49589093" ref="about"/>
+    <file name="iefonts_about.css" crc="3930628674" ref="about"/>
+    <file name="index.css" crc="4128263053" ref="index"/>
+    <file name="iefonts_index.css" crc="415894877" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="foto-dan-video-udara-pulau-tidung.mp4" crc="3879699408" seo="true" mt="1480830754000"/>
+    <file name="log3.psd" crc="134673138" seo="true" mt="1481627456000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>about:phone>service:phone>portofolio:phone>contact:tablet>index:tablet>about:tablet>service:tablet>portofolio:tablet>contact:index:about:service:portofolio:contact"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>about:phone>service:phone>portofolio:phone>contact:tablet>index:tablet>about:tablet>service:tablet>portofolio:tablet>contact:index:about:service:portofolio:contact"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>about:phone>service:phone>portofolio:phone>contact:tablet>index:tablet>about:tablet>service:tablet>portofolio:tablet>contact:index:about:service:portofolio:contact"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>about:tablet>service:tablet>portofolio:tablet>contact"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about:service:portofolio:contact"/>
+    <file name="webpro.js" crc="3803554875" ref="index:portofolio:contact"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:portofolio"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:portofolio"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:portofolio"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:about"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:service:portofolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:about:service:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:service:portofolio:contact"/>
+    <file name="form_check.php" crc="277267350" ref="contact"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact"/>
+    <file name="form_process.php" crc="24249335" ref="contact"/>
+    <file name="form-u1269.php" crc="4160908121" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pattern-89ds.jpg" crc="384133898" ref="index"/>
+    <file name="logo hexadrone (2)-layer 2503x336.png" crc="84194929" seo="true" ref="index"/>
+    <file name="logo hexadrone (2)-layer 1503x336.png" crc="3960306086" seo="true" ref="index"/>
+    <file name="logo hexadrone (2)-hexadrone503x336.png" crc="3854963205" seo="true" ref="index"/>
+    <file name="buildings.jpg" crc="241814591" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portofolio"/>
+    <file name="city siluet.jpg" crc="4267963441" seo="true" ref="index"/>
+    <file name="drone mavic.jpg" crc="424443360" seo="true" ref="index"/>
+    <file name="drone phantom 4.jpg" crc="283446051" seo="true" ref="index"/>
+    <file name="konstruksi bangunan.jpg" crc="3956741023" seo="true" ref="index"/>
+    <file name="arleft1.png" crc="443796847" ref="index"/>
+    <file name="arright1.png" crc="3877265485" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:portofolio"/>
+    <file name="company profile-u410-fr.jpg" crc="310482775" ref="index"/>
+    <file name="konstruksi bangunan-u414-fr.jpg" crc="37600572" ref="index"/>
+    <file name="foto via udara-u412-fr.jpg" crc="3766970136" ref="index"/>
+    <file name="sky view.jpg" crc="503619287" ref="index"/>
+    <file name="u549-4.png" crc="4166198296" ref="index"/>
+    <file name="sky view-u390-fr.png" crc="8174553" ref="index"/>
+    <file name="coast-curacao-dawn-953-u466-fr.png" crc="21920556" ref="index"/>
+    <file name="company profile 2.jpg" crc="342694560" ref="index"/>
+    <file name="company profile 3.jpg" crc="4044555259" ref="index"/>
+    <file name="company profile-u1012-fr.jpg" crc="99004179" ref="index"/>
+    <file name="u1188-4.png" crc="4003393643" ref="index"/>
+    <file name="u1189-4.png" crc="4261356838" ref="index"/>
+    <file name="u1190-4.png" crc="306744297" ref="index"/>
+    <file name="u1184-4.png" crc="4261356838" ref="index"/>
+    <file name="foto kapal.jpg" crc="184224947" seo="true" ref="index:portofolio"/>
+    <file name="foto belitong.jpg" crc="4148810303" seo="true" ref="index:portofolio"/>
+    <file name="belitong 2.jpg" crc="4146722462" ref="index"/>
+    <file name="foto via udara-u1094-fr.jpg" crc="202149852" ref="index"/>
+    <file name="footericon01.png" crc="147744704" ref="index:about:service:portofolio:contact"/>
+    <file name="footericon02.png" crc="4157289281" ref="index:about:service:portofolio:contact"/>
+    <file name="footericon03.png" crc="188072960" ref="index:about:service:portofolio:contact"/>
+    <file name="logo hexadrone (2)-layer 2.png" crc="4199738355" seo="true" ref="index:about:service:portofolio"/>
+    <file name="logo hexadrone (2)-layer 1.png" crc="170420758" seo="true" ref="index:about:service:portofolio"/>
+    <file name="logo hexadrone (2)-hexadrone.png" crc="4033873075" seo="true" ref="index:about:service:portofolio"/>
+    <file name="logo hexadrone (2)-aerial maping photo - video.png" crc="222149284" seo="true" ref="index:about:service:portofolio"/>
+    <file name="logo hexadrone (2)-layer 2459x307.png" crc="4075546515" seo="true" ref="about"/>
+    <file name="logo hexadrone (2)-layer 1459x307.png" crc="3877203349" seo="true" ref="about"/>
+    <file name="logo hexadrone (2)-hexadrone459x307.png" crc="3892641303" seo="true" ref="about"/>
+    <file name="logo hexadrone (2)-aerial maping photo - video459x307.png" crc="263224344" seo="true" ref="about"/>
+    <file name="drone p3s.jpg" crc="3855006983" ref="about"/>
+    <file name="dji p4s.jpg" crc="4103334389" ref="about"/>
+    <file name="dji gimbal phantom 3.jpg" crc="461308310" ref="about"/>
+    <file name="dji p4s gimbal.jpg" crc="3759862839" ref="about"/>
+    <file name="company profile.jpg" crc="4257583720" ref="service"/>
+    <file name="telepon.jpg" crc="43208537" ref="service"/>
+    <file name="logo hexadrone (2)-aerial maping photo - video503x336.png" crc="4110647482" seo="true" ref="service"/>
+    <file name="foto via udara.jpg" crc="410509713" ref="service"/>
+    <file name="fu 1.jpg" crc="245513898" seo="true" ref="portofolio"/>
+    <file name="fu 3.jpg" crc="4100366905" seo="true" ref="portofolio"/>
+    <file name="fu 7.jpg" crc="181025847" seo="true" ref="portofolio"/>
+    <file name="fu 8.jpg" crc="232904267" seo="true" ref="portofolio"/>
+    <file name="fu 9.jpg" crc="95699939" seo="true" ref="portofolio"/>
+    <file name="fu 10.jpg" crc="4156164256" seo="true" ref="portofolio"/>
+    <file name="fu 11.jpg" crc="103283920" seo="true" ref="portofolio"/>
+    <file name="fu 12.jpg" crc="3926578973" seo="true" ref="portofolio"/>
+    <file name="fu 13.jpg" crc="4267507926" seo="true" ref="portofolio"/>
+    <file name="cp 1.jpg" crc="4049660381" seo="true" ref="portofolio"/>
+    <file name="cp 2.jpg" crc="4291009916" seo="true" ref="portofolio"/>
+    <file name="img_1915.jpg" crc="3999166111" seo="true" ref="portofolio"/>
+    <file name="terjun payung.jpg" crc="3887956382" seo="true" ref="portofolio"/>
+    <file name="aerial 1.jpg" crc="495454264" seo="true" ref="portofolio"/>
+    <file name="fu 2.jpg" crc="4040356600" seo="true" ref="portofolio"/>
+    <file name="fu 1-crop-u2161.jpg" crc="3848790932" ref="portofolio"/>
+    <file name="fu 3-crop-u2241.jpg" crc="3927607208" ref="portofolio"/>
+    <file name="fu 7-crop-u2307.jpg" crc="3785768920" ref="portofolio"/>
+    <file name="fu 8-crop-u2316.jpg" crc="166388018" ref="portofolio"/>
+    <file name="fu 9-crop-u2325.jpg" crc="198241465" ref="portofolio"/>
+    <file name="fu 10-crop-u2334.jpg" crc="165719220" ref="portofolio"/>
+    <file name="fu 11-crop-u2343.jpg" crc="4162231484" ref="portofolio"/>
+    <file name="fu 12-crop-u2352.jpg" crc="4018035207" ref="portofolio"/>
+    <file name="fu 13-crop-u2361.jpg" crc="4128477379" ref="portofolio"/>
+    <file name="cp 1-crop-u2425.jpg" crc="4229354237" ref="portofolio"/>
+    <file name="cp 2-crop-u2434.jpg" crc="184202888" ref="portofolio"/>
+    <file name="foto belitong-crop-u2443.jpg" crc="519998056" ref="portofolio"/>
+    <file name="img_1915-crop-u2457.jpg" crc="3958215981" ref="portofolio"/>
+    <file name="foto kapal-crop-u2474.jpg" crc="3793493344" ref="portofolio"/>
+    <file name="terjun payung-crop-u2483.jpg" crc="523829267" ref="portofolio"/>
+    <file name="aerial 1-crop-u2211.jpg" crc="9291400" ref="portofolio"/>
+    <file name="fu 2-crop-u2226.jpg" crc="4219536945" ref="portofolio"/>
+    <file name="u1284-17.png" crc="4071572179" ref="contact"/>
+    <file name="u1284-17-r.png" crc="4135496887" ref="contact"/>
+    <file name="u1284-17-m.png" crc="4135496887" ref="contact"/>
+    <file name="u1284-17-fs.png" crc="4071572179" ref="contact"/>
+    <file name="whatsapp_logo_6.png" crc="218582734" ref="contact"/>
+    <file name="line.png" crc="155830976" ref="contact"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="contact.css" crc="3964970448" ref="tablet>contact"/>
+      <file name="portofolio.css" crc="3964970448" ref="tablet>portofolio"/>
+      <file name="service.css" crc="3964970448" ref="tablet>service"/>
+      <file name="about.css" crc="3964970448" ref="tablet>about"/>
+      <file name="index.css" crc="3964970448" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3934584605" seo="true" mt="1481106321687" redirect="false"/>
+    <file name="about.html" crc="143014465" seo="true" mt="1481106321921" redirect="false"/>
+    <file name="service.html" crc="4177193109" seo="true" mt="1481106322138" redirect="false"/>
+    <file name="portofolio.html" crc="4140821874" seo="true" mt="1481106322354" redirect="false"/>
+    <file name="contact.html" crc="3927380170" seo="true" mt="1481106322598" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="portofolio.css" crc="4107295331" ref="phone>portofolio"/>
+      <file name="about.css" crc="4107295331" ref="phone>about"/>
+      <file name="contact.css" crc="4107295331" ref="phone>contact"/>
+      <file name="service.css" crc="4107295331" ref="phone>service"/>
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="231132628" seo="true" mt="1481106322732" redirect="false"/>
+    <file name="about.html" crc="4022176515" seo="true" mt="1481106322735" redirect="false"/>
+    <file name="service.html" crc="474921414" seo="true" mt="1481106322739" redirect="false"/>
+    <file name="portofolio.html" crc="3885102978" seo="true" mt="1481106322743" redirect="false"/>
+    <file name="contact.html" crc="3999665069" seo="true" mt="1481106322746" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="218001363" seo="true" mt="1482204629660" redirect="true"/>
+  <file name="about.html" crc="20631241" seo="true" mt="1482160084390" redirect="true"/>
+  <file name="service.html" crc="4269711619" seo="true" mt="1482160063093" redirect="true"/>
+  <file name="portofolio.html" crc="470206989" seo="true" mt="1482160042337" redirect="true"/>
+  <file name="contact.html" crc="3828325655" seo="true" mt="1482206287339" redirect="true"/>
+</manifest>
